@@ -1,6 +1,6 @@
 #2019219041 학번 RESUME 입니다... 
 
-## 2019219041 hakbun Thech Full Stacks
+## 2019219041 학번 Thech Full Stacks
 - Java
 - Spring Framework
 - Spring Boot
